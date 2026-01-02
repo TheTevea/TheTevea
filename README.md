@@ -2,7 +2,7 @@
 
 ### Frontend Engineer & Designer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=@TheTevea&label=Profile views&color=0e75b6&style=flat" alt="TheTevea" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheTevea&label=Profile views&color=0e75b6&style=flat" alt="TheTevea" /> </p>
 
 - 🔭 I'm currently working on **Frontend Engineer & Designer.**
 
