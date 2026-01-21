@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **[https://www.tevea.dev/sharing](https://www.tevea.dev/sharing)**
 
-- 📄 Know about my experiences **[https://www.tevea.dev/CHHEM_TEVEA_CV.pdf](https://www.tevea.dev/CHHEM_TEVEA_CV.pdf)**
+/*- 📄 Know about my experiences **[https://www.tevea.dev/CHHEM_TEVEA_CV.pdf](https://www.tevea.dev/CHHEM_TEVEA_CV.pdf)***/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
