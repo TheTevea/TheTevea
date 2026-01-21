@@ -22,8 +22,6 @@
 
 - 📝 I regularly write articles on **[https://www.tevea.dev/sharing](https://www.tevea.dev/sharing)**
 
-/*- 📄 Know about my experiences **[https://www.tevea.dev/CHHEM_TEVEA_CV.pdf](https://www.tevea.dev/CHHEM_TEVEA_CV.pdf)***/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/TheTevea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TheTevea" height="30" width="40" /></a>
