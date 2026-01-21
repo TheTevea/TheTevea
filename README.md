@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **I’m currently learning frontend system engineering with the Vue/Nuxt ecosystem.**
 
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on Nuxt/Vue open-source projects and AI-powered web apps.**
+- 🔭 I'm looking to collaborate on **I'm looking to collaborate on Nuxt/Vue open-source projects and AI-powered web apps.**
 
 - 🤝 I'm looking for help with **I’m looking for help with Nuxt 3 best practices and project architecture.**
 
